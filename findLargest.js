@@ -11,7 +11,7 @@ const prompt = readline.createInterface({
 
 });
 
-// Taking input from user
+// Taking inputs from user
 prompt.question("Enter first number = ", function (a) {
                prompt.question("Enter second number = ", function (b) {
                               prompt.question("Enter third number = ", function (c) {

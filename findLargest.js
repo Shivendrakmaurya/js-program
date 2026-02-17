@@ -1,4 +1,3 @@
-
 // Program to find the largest of three numbers
 
 
@@ -10,7 +9,6 @@ const prompt = readline.createInterface({
                output: process.stdout
 
 });
-
 // Taking inputs from user
 prompt.question("Enter first number = ", function (a) {
                prompt.question("Enter second number = ", function (b) {
